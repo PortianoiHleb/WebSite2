@@ -1,0 +1,591 @@
+
+.promo
+{
+    min-height: 799px;
+    background: url('../img/mountain.png') center center/cover no-repeat
+}
+.header_logo
+{
+    box-sizing: border-box;
+
+    
+    width: 158px;
+    height: 134px;
+    background: #252525;
+    border: 1px solid #000000;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    
+    display: table-cell;
+    font-family: 'Doppio One', sans-serif;
+    font-weight: 400;
+    font-size: 21.7778px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 27px;
+
+
+
+    color: #FFFFFF;
+
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.m1
+{
+    position: absolute;
+    width: 65px;
+    height: 39px;
+    
+    
+    font-family: 'Crushed', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 33.9733px;
+    line-height: 39px; 
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+.m2 
+{
+    position: absolute;
+    white-space: nowrap;
+    margin-left: 30px;
+    width: 108px;
+    height: 39px;
+
+    font-family: 'Crushed', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 33.9733px;
+    line-height: 39px;
+
+
+    text-align: center;
+
+    color: #FFFFFF;
+}
+.m3 
+{
+    position: absolute;
+    margin-left: 30px;
+    width: 110px;
+    height: 39px;
+
+    font-family: 'Crushed', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 33.9733px;
+    line-height: 39px;
+
+    text-align: center;
+
+    color: #FFFFFF;
+}
+.carpathians
+{
+    position: relative;
+    margin-top: 245px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0px;
+    text-transform: uppercase;
+    width: 352px;
+    height: 68px;
+    
+
+    font-family: 'Doppio One', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 54.0412px;
+    line-height: 68px;
+   
+
+    text-align: center;
+
+    color: #FFFFFF;
+}
+.love 
+{
+    display: inline;
+    position: relative;
+    left: 78px;
+    width: 203px;
+    height: 38px;
+
+    font-family: 'Crushed', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32.6852px;
+    line-height: 38px;
+
+    text-align: center;
+
+    color: #FFFFFF;
+}
+.trip
+{
+    display: block;
+    margin-top: 29px;
+    margin-left: 73px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    width: 213px;
+    height: 49px;
+   
+
+    background: #FFFFFF;
+    border-radius: 38.3887px;
+
+    font-family: 'Doppio One', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21.2549px;
+    line-height: 27px;
+
+    text-align: center;
+    cursor: pointer;
+
+    color: #000000;
+}
+.scrolling
+{
+    min-height: 445px;
+    background: #FFFFFF center center/cover no-repeat;
+}
+.carpathians_travel
+{
+    position: relative;
+    margin-top: 42px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0;
+    font-family: 'Doppio One', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36.6818px;
+    line-height: 46px;
+    text-align: center;
+    text-transform: uppercase;
+
+    color: #000000;
+
+    text-shadow: 0px 6.73748px 6.73748px rgba(0, 0, 0, 0.25);
+}
+.we_are
+{
+    position: relative;
+    margin-top: 51px;
+    font-family: 'Doppio One', sans-serif;
+    font-size: 32px;
+    line-height: 40px;
+    text-align: center;
+
+    color: #000000;
+
+    text-shadow: 0px 6.73748px 6.73748px rgba(0, 0, 0, 0.25);
+}
+.point
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 21px
+}
+.poke 
+{
+    position: absolute;
+    left: 1000px;
+    font-family: 'Doppio One', sans-serif;
+    font-size: 24.9956px;
+    line-height: 31px;
+
+    color: #000000;
+
+}
+.our_travel
+{
+    min-height: 665px;
+    background: #F5F5F5 center center/cover no-repeat;
+}
+.title
+{
+    position: relative;
+    top: 65px;
+    font-family: 'Doppio One', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36.6818px;
+    line-height: 46px;
+    text-align: center;
+
+    color: #000000;
+
+    text-shadow: 0px 6.73748px 6.73748px rgba(0, 0, 0, 0.25);
+}
+.row
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+.reason-block
+{
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    margin-top: 154px;
+}
+.reasons_round
+{
+    display: flex;
+    margin-right: 2px;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    width: 94px;
+    height: 94px;
+    background: url(free-icon-scroll-5999226.png);
+}
+.reason_descr
+{
+    width: 299px;
+}
+.reason_subtitle
+{
+    font-family: 'Doppio One', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24.0329px;
+    line-height: 30px;
+
+    color: #CFC070;
+
+}
+.reason_text
+{
+    font-family: 'Doppio One', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18.5406px;
+    line-height: 23px;
+
+    color: #000000;
+
+}
+.choice
+{
+    min-height: 249px;
+    background: #CFC070 center center/cover no-repeat;
+}
+.choice_scroll
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+.choose
+{
+    position: relative;
+    display: flex;
+    width: 151px;
+    height: 35px;
+    background: #FFFFFF;
+    margin-top: 90px;
+
+}
+.choose_2
+{
+    position: absolute;
+    left: 12px;
+    top: 9px;
+
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14.25px;
+    line-height: 17px;
+
+    color: #000000;
+}
+.arrow_down
+{
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    top: 9px;
+    left: 119px;
+
+    background: url("/src/icons/premium-icon-down-arrow-2985150\ 2.png");
+}
+.name
+{
+    position: relative;
+    display: flex;
+    margin-left: 67px;
+    width: 151px;
+    height: 35px;
+    background:#FFFFFF;
+    margin-top: 90px;
+}
+.name_2
+{
+    position: absolute;
+    left: 12px;
+    top: 9px;
+
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14.25px;
+    line-height: 17px;
+
+    color: #000000;
+}
+.telephone
+{
+    position: relative;
+    display: flex;
+    margin-left: 130px;
+    width: 151px;
+    height: 35px;
+    background:#FFFFFF;
+    margin-top: 90px;
+}
+.telephone_2
+{
+    position: absolute;
+    left: 12px;
+    top: 9px;
+
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14.25px;
+    line-height: 17px;
+
+    color: #000000;
+}
+.date 
+{
+    position: relative;
+    display: flex;
+    margin-left: 195px;
+    width: 151px;
+    height: 35px;
+    background:#FFFFFF;
+    margin-top: 90px;
+}
+.date_2
+{
+    position: absolute;
+    left: 12px;
+    top: 9px;
+
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14.25px;
+    line-height: 17px;
+
+    color: #000000;
+}
+.book
+{
+    box-sizing: border-box;
+    position: relative;
+    width: 206px;
+    height: 44px;
+
+    margin-top: 37px;
+    margin-left: 452px;
+    border: 1px solid #000000;
+    border-radius: 75px;
+    cursor: pointer;
+}
+.book_2
+{
+    position: absolute;
+    width: 91px;
+    height: 20px;
+    left: 55px;
+    top: 12px;
+
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16.7647px;
+    line-height: 20px;
+
+    color: #000000;
+}
+.contacts
+{
+    background: url("/src/img/lake.png") left bottom no-repeat, #435059 right bottom no-repeat;
+    min-height: 590px;
+    background-size: center center/cover;
+    
+}
+.main_text
+{
+    display: block;
+    position: relative;
+}
+.text_1
+{
+    position: absolute;
+    width: 228px;
+    height: 62px;
+    left: 900px;
+    top: 108px;
+
+    font-family: 'Doppio One', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36.6818px;
+    line-height: 46px;
+    text-align: center;
+
+    color: #FFFFFF;
+
+    text-shadow: 0px 6.73748px 6.73748px rgba(0, 0, 0, 0.25);
+}
+.text_2
+{
+    position: absolute;
+    width: 192px;
+    height: 31px;
+    left: 915px;
+    top: 170px;
+
+    font-family: 'Doppio One', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24.6515px;
+    line-height: 31px;
+
+    text-align: center;
+
+    color: #FFFFFF;
+}
+.text_3
+{
+    position: absolute;
+    width: 352px;
+    height: 31px;
+    left: 845px;
+    top: 218px;
+
+    font-family: 'Doppio One', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24.6515px;
+    line-height: 31px;
+
+    text-align: center;
+
+    color: #FFFFFF;
+}
+.text_4
+{
+    position: absolute;
+    width: 150px;
+    height: 22px;
+    left: 945px;
+    top: 289px;
+
+    font-family: 'Doppio One', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17.4946px;
+    line-height: 22px;
+
+    text-align: center;
+
+    color: #FFFFFF;
+}
+.instagram
+{
+    position: absolute;
+    width: 79px;
+    height: 60px;
+    left: 895px;
+    top: 337px;
+    cursor: pointer;
+}
+.facebook
+{
+    position: absolute;
+    width: 50px;
+    height: 37px;
+    left: 995px;
+    top: 349px;
+    cursor: pointer;
+}
+.youtube
+{
+    position: absolute;
+    width: 49px;
+    height: 49px;
+    left: 1095px;
+    top: 344px;
+    cursor: pointer;
+}
+.down
+{
+   
+    min-height: 111px;
+    background: #252525 center center/cover no-repeat;
+}
+.down_menu
+{
+   display: block;
+   position: relative;
+    
+}
+
+.down_logo
+{
+    position: absolute;
+    width: 159.7px;
+    height: 49px;
+    top: 31px;
+
+    font-family: 'Doppio One', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21.7778px;
+    line-height: 27px;
+    text-align: center;
+
+    color: #FFFFFF;
+
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.copiraiting
+{
+    position: absolute;
+    width: 39px;
+    height: 37.05px;
+    left: 1230px;
+    top: 37px;
+
+}
+.year
+{   
+    position: absolute;
+    width: 55px;
+    height: 31px;
+    left: 1269px;
+    top: 40px;
+
+    font-family: 'Doppio One', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25.0041px;
+    line-height: 31px;
+    text-align: center;
+
+    color: #FFFFFF;    
+}
