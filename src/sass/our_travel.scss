@@ -1,0 +1,72 @@
+.our_travel
+{
+    min-height: 665px;
+    background: #F5F5F5 center center/cover no-repeat;
+}
+.title
+{
+    position: relative;
+    top: 65px;
+    font-family: 'Doppio One', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36.6818px;
+    line-height: 46px;
+    text-align: center;
+
+    color: #000000;
+
+    text-shadow: 0px 6.73748px 6.73748px rgba(0, 0, 0, 0.25);
+}
+.row
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+.reason-block
+{
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    margin-top: 154px;
+}
+.reasons_round
+{
+    display: flex;
+    margin-right: 2px;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    width: 94px;
+    height: 94px;
+    background: url(free-icon-scroll-5999226.png);
+}
+.reason_descr
+{
+    width: 299px;
+}
+.reason_subtitle
+{
+    font-family: 'Doppio One', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24.0329px;
+    line-height: 30px;
+
+    color: #CFC070;
+
+}
+.reason_text
+{
+    font-family: 'Doppio One', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18.5406px;
+    line-height: 23px;
+
+    color: #000000;
+
+}
